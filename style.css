@@ -1,0 +1,51 @@
+
+div{
+    display: flex;
+    justify-content: center;
+    margin: auto auto;
+}
+.block_tainercon{
+    background-color:#FFFFFF;
+    justify-content: center;
+
+}
+.block{
+    width: 33%;
+    display: block;
+    margin-top: 10%;
+}
+svg{
+    width: 15px;
+    height: 15px;
+    margin: auto;
+}
+svg:hover{
+    fill: #2a69a6;
+}
+.circle{
+    background-color: #1275B9;
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+}
+.circle:hover{
+    background-color: #FFFFFF;
+    border: 0.1px solid  #1275B9;
+}
+.headline{
+    color:#000000;  
+    font-family:ProximaNova-Regular,ProximaNova-Bold,AdobeInvisFont,MyriadPro-Regular;
+    font-size:7px;
+    text-align: center;
+    margin-top: 6px;
+}
+.text{
+    color:#9D9D9D;
+    font-family:ProximaNova-Light,ProximaNova-Bold,AdobeInvisFont,MyriadPro-Regular;
+    font-size:5px;
+    text-align: center;
+    margin-top: 3px;
+}
+
+
+
